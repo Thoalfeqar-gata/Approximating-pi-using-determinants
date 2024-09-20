@@ -1,0 +1,1 @@
+This a simple project that is part of the mathematics course in the master's degree in Computer Engineering from Al-Mustansiriyah university. The project is about approximating the value of pi using determinants to calculate the area of a unit circle.
